@@ -1,5 +1,5 @@
 # Padrão de Comites da Equipe: CalmoMilla
-
+## Um repositório utilizado para definir o padrão de commites da equipe.
 Esse repositório se baseou no padrão utilizado por [iuricode](https://github.com/iuricode/padroes-de-commits) com pequenas alterações proprías para suprir a necessidade da Equipe.
 
 ## Padrão a ser seguido pela Equipe CalmoMilla:
