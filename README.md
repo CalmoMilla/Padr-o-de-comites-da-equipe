@@ -328,9 +328,9 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":lipstick: feat: Estilizaçao CSS do formulario"</code>
+        <code>git commit -m ":art: feat: Estilizaçao CSS do formulario"</code>
       </td>
-      <td>💄 feat: Estilizaçao CSS do formulario</td>
+      <td>🎨 feat: Estilizaçao CSS do formulario</td>
     </tr>
     <tr>
       <td>
