@@ -14,7 +14,7 @@ Esse repositório se baseou no padrão utilizado por [iuricode](https://github.c
     </tr>
   </thead>
  <tbody>
-<tbody>
+<tbody> 
     <tr>
       <td>
         <code>git commit -m ":tada: @SammyLexa Inicializando o Projeto"
