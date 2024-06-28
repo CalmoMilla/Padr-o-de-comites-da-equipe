@@ -17,20 +17,20 @@ Esse repositório se baseou no padrão utilizado por [iuricode](https://github.c
 <tbody> 
     <tr>
       <td>
-        <code>git commit -m ":tada: @SammyLexa Inicializando o Projeto"
+        <code>git commit -m ":tada: @selingindev Inicializando o Projeto"
       </td>
       <td>🎉 @SammyLexa Commit inicial</td>
   </tr>
     <td>
-        <code>git commit -m "git commit -m ":books: docs: @SammyLexa Atualizaçao do README"</code>
+        <code>git commit -m "git commit -m ":books: docs: @selingindev Atualizaçao do README"</code>
     </td>
-    <td>📚 docs: @SammyLexa Atualizaçao do README</td>
+    <td>📚 docs: @selingindev Atualizaçao do README</td>
     </tr>
     <tr>
       <td>
         <code>git commit -m ":sparkles: feat: @SammyLexa Pagina de login"</code>
       </td>
-      <td>✨ feat: @SammyLexa Pagina de login</td>
+      <td>✨ feat: @selingindev Pagina de login</td>
     </tr>
   </tbody>
 </table>
